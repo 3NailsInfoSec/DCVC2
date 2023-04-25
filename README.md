@@ -11,6 +11,8 @@ This Multi-OS compatible tool was created to leverage Discord's voice channels f
 
 ## Build:
 ```
+git clone https://github.com/3NailsInfoSec/DCVC2.git
+cd DCVC2
 go mod download
 go build server.go
 go build agent.go
