@@ -6,7 +6,7 @@
 This multi operating system compatible tool was created to leverage Discord's voice channels for command and control operations. This tool operates entirely over the Real-Time Protocol (RTP) primarily leveraging <a href ="https://stealthbits.com/stealthaudit-for-active-directory-product/(https://github.com/bwmarrin/discordgo)">DiscordGo</a> and leaves no pesky traces behind in text channels. It is a command line based tool meaning all operations will occur strictly from the terminal on either Windows/Linux/OSX. Please use responsibly but have fun! ;)
 
 ## Requirements:
-1. <a href ="https://www.3nailsinfosec.com/post/using-discord-s-voice-channel-for-c2-operations">Read about the birth of DCVC2</a>
+1. Updated (wrong link before) <a href ="https://www.3nailsinfosec.com/post/using-discord-s-voice-channel-for-c2-operations">Read about DCVC2</a>
 2. You need a Discord account.
 3. You need a Discord server.
 4. Increase voice chat speed to 96kbps in settings.
