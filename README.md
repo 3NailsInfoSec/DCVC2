@@ -43,6 +43,6 @@ download file path>C:\Users\sm00v\Downloads\34954477.jpg
 ............................................................
 ```
 ## Credits
-<a href ="https://twitter.com/sm00v">Twitter: @sm00v</a>
+<a href ="https://twitter.com/5m00v">Twitter: @sm00v</a>
 
-<a href ="https://github.com/sm00v">Github: @sm00v</a>
+<a href ="https://github.com/5m00v">Github: @sm00v</a>
